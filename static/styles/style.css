@@ -1,0 +1,33 @@
+.analiza{
+}
+
+.center-box{
+    border-radius: 20px;
+    background: white;
+}
+
+.center-box{
+    padding: 10px;
+}
+
+.img-fluid{
+    margin: 10px 0 10px 0;
+}
+
+.upload{
+    width: 100%;
+}
+
+.submit{
+    float: right;
+    padding: 7px 20px 7px 20px;
+}
+
+.btn-primary{
+    background: #212529;
+    border-color: #212529;
+}
+
+.result{
+    margin: 10px 0 10px 0;
+}
